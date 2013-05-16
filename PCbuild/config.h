@@ -11,6 +11,7 @@
 
 /* Define this to enable trace code */
 /* #undef DO_RS_TRACE */
+#define DO_RS_TRACE 1
 
 /* Define to 1 if you have `alloca', as a function or macro. */
 #define HAVE_ALLOCA 1
