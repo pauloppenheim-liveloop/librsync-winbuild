@@ -26,7 +26,5 @@
 *.so
 /rdiff
 /librsync.la
-/prototab.c
-/prototab.h
 /ChangeLog
 /librsync-config.h
